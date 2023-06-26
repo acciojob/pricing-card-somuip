@@ -3,3 +3,9 @@ h1{
 	font-family:sans-serif;
 	font-weight:600;
 }
+#btn{
+	content-align:center;
+	background-color:red;
+	color:white;
+	
+}
